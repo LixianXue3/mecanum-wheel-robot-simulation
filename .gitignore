@@ -13,8 +13,8 @@ Release/
 __pycache__/
 *.py[cod]
 
-# Large files
-*.pdf
+# Large files (PDF manual allowed for reference)
+# *.pdf  # 取消注释以忽略所有PDF，当前保留手册PDF
 *.pptx
 *.docx
 
